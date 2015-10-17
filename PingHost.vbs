@@ -1,5 +1,5 @@
 'script will ping host being passssed
-PingStatus = Ping("njrdbrtl01")
+PingStatus = Ping("njrdbrtl02")
 
 	if PingStatus <> 1 then 
 				msgbox "The ping was not successful"
