@@ -1,4 +1,4 @@
-
+'script will ping host being passssed
 PingStatus = Ping("njrdbrtl01")
 
 	if PingStatus <> 1 then 
